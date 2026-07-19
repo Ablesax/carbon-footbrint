@@ -1,9 +1,3 @@
-# Cloud Carbon Footprint ML — Obia John Simon
-## Bells University of Technology, Ota | B.Tech Computer Science
-
----
-
-## Project Overview
 
 A machine learning system that **predicts and evaluates the carbon footprint of AWS cloud workloads**
 using **Linear Regression** and **Random Forest** models.
